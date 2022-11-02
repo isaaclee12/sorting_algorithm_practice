@@ -1,6 +1,6 @@
 # sorting_algorithm_practice
 
-An analysis of Various Sorting Algorithms in C++.
+An analysis of various sorting algorithms in C++.
 
 A CSV database of video games were converted into C++ objects, which were then sorted using Bubble, Insertion, Quick, Heap, and Two Sorts.
 
